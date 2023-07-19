@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAT.UI.MVC", "SAT.UI.MVC\SAT.UI.MVC.csproj", "{AECD8EBE-44D4-4F6A-B35F-B6FC69F96EBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAT.DATA.EF", "..\SAT.DATA.EF\SAT.DATA.EF.csproj", "{6351E8C3-145D-4E6E-BF48-99B9360AC46C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AECD8EBE-44D4-4F6A-B35F-B6FC69F96EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AECD8EBE-44D4-4F6A-B35F-B6FC69F96EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AECD8EBE-44D4-4F6A-B35F-B6FC69F96EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6351E8C3-145D-4E6E-BF48-99B9360AC46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6351E8C3-145D-4E6E-BF48-99B9360AC46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6351E8C3-145D-4E6E-BF48-99B9360AC46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6351E8C3-145D-4E6E-BF48-99B9360AC46C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
